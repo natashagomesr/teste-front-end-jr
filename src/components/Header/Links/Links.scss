@@ -1,0 +1,20 @@
+@import "src/App.scss";
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.container-links {
+  display: flex;
+  width: 100%;
+}
+
+.links {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: $gray;
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+
+  &:hover {
+    cursor: pointer;
+    color: $pink;
+  }
+}

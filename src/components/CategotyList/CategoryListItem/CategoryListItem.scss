@@ -1,0 +1,32 @@
+@import "src/App.scss";
+
+.category-item-container {
+  text-decoration: none;
+
+  .content-image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 128px;
+    height: 128px;
+    background: $light_gray;
+    border-radius: 10px;
+    box-shadow: 0px 4px 11px 0px rgba(0, 0, 0, 0.13);
+  }
+  .category-item-image {
+    height: 61px;
+  }
+
+  .category-item-children {
+    color: $black;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 22px;
+
+    &:hover {
+      cursor: pointer;
+      color: $pink;
+    }
+  }
+}

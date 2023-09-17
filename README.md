@@ -1,31 +1,71 @@
-# Teste Econverse: Vaga Desenvolvedor Front-End Jr
+## 🚀 Test Econverse
 
-### Vem ser #Econverse!
+## 🧠 Contexto
 
-Segue abaixo as instruções para a execução do teste.
+- 🔗 Link Documentação livros
+- ✨ Funcionalidades
+- 🎯 Requesitos Mínimos
+- 🛠️ Tecnologias Utilizadas
+- ⚙️ Como rodar o projeto localmente
+- 🔃 Rotas
+- 👨‍💻 Desenvolvedores
 
-## Instruções
-- Faça um fork desse projeto para a sua conta pessoal do GitHub.
-- Desenvolva a página conforme as **Especificações Técnicas** 
-- Crie um README com as instruções para compilar, testar e rodar o projeto.
-- O link do repositório deverá ser enviado para o e-mail ana.nascimento@econverse.com.br, joao.victor@econverse.com.br e eduardo.rodrigues@econverse.com.br com o título **Teste Vaga FrontEnd Jr**
+## 🔗 Link Documentação
 
-## Especificações Técnicas
-- Desenvolver a pagina em React e TypeScript conforme o [layout](https://www.figma.com/file/rWnzPeoxgynuNPsJjV0VmV/Teste-Front-End-Jr?node-id=0%3A1). Para conseguir pegar os elementos do Figma, basta copiar o layout para sua conta que terá acesso de edição.
-- Montar a [vitrine](https://app.econverse.com.br/teste-front-end/junior/tecnologia/layout/vitrine-produtos.png) de produtos consumindo as informações dos produtos em json atraves desse [Link](https://app.econverse.com.br/teste-front-end/junior/tecnologia/lista-produtos/produtos.json).
-- Desenvolver a interação ao clicar em um produto conforme layout. A interação consiste em abrir um modal com as principais informações do produto presente no arquivo [JSON](https://app.econverse.com.br/teste-front-end/junior/tecnologia/lista-produtos/produtos.json) conforme o produto que clicar.
+As imagens, nome, preço e descrição estão listadas no arquivo [`JSON`](https://app.econverse.com.br/teste-front-end/junior/tecnologia/lista-produtos/produtos.json) .
+
+## ✨ Funcionalidades
+
+Desenvolver a página em React e TypeScript conforme o layout. 
+
+## 🎯 Requisitos Mínimos
+
+- Montar a vitrine de produtos consumindo as informações dos produtos em json
+- Desenvolver a interação ao clicar em um produto conforme layout. A interação consiste em abrir um modal com as principais informações do produto presente no arquivo JSON conforme o produto que clicar.
 - Utilizar Pré-processador Sass, Less ou Stylus.
 - Respeitar o Layout pixel a pixel, tamanho das fontes, cores e botões.
 - Não Utilizar bibliotecas UI como Bootstrap, Foundation, ou afins.
 
-## Pontos Extras
-- Utilizar Boas práticas de SEO
-- Uso de HTML semântico
+## 🛠️ Tecnologias utilizadas nesse projeto
 
-## O que avaliaremos em seu teste
-- Organização do projeto
-- Lógica do código
-- Componentização
-- Alcance dos objetivos propostos
+Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 
-**Boa sorte! ;)**
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [Git/Github](https://github.com/)
+- [VScode](https://code.visualstudio.com/)
+- [Sass](https://sass-lang.com/documentation/)
+
+## ⚙️ Como rodar o projeto localmente
+
+Siga os passos e inclua as informações abaixo:
+
+| Passo                   | Comando/informação |
+| ----------------------- | ------------------ |
+| Faça o fork             | `botão de forkar`  |
+| Faça o clone            | `git clone`        |
+| Instale as dependências | `npm i`            |
+| Rode o projeto          | `npm start`        |
+
+## 🔃 Rotas:
+
+| Endpoint          | Descrição                   |
+| ----------------- | --------------------------- |
+| `/`                | Home Page                   |
+
+## ‍💻 Desenvolvedores
+
+<table>
+  <tr>  
+    <td text-align="center"><a href="https://github.com/natashagomesr"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98358842?v=4" width="100px;" alt=""/>
+    <br /><sub><b>Natasha Gomes</b>
+    <br></sub></a><br /> <a href="https://www.linkedin.com/in/natasha-gomes-r/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>    
+  </tr>
+  
+</table>
+
+<h2>
+  <a href='#top'>🔝 Voltar para o topo.</a>
+</h2>
+
+<br>

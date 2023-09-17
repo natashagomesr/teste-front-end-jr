@@ -1,0 +1,18 @@
+@import "src/App.scss";
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.icon-text-container {
+  color: $pink;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  font-family: "Poppins";
+  font-size: 12px;
+}
+
+.icon-text-image {
+  margin-right: 9px;
+}

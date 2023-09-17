@@ -1,0 +1,27 @@
+@import "src/App.scss";
+
+.container-title-line {
+  color: $pink;
+  font-weight: 700;
+  font-size: 30px;
+  position: relative;
+  text-align: center;
+
+  &::before {
+    content: "";
+    position: absolute;
+    bottom: 50%;
+    left: 0;
+    right: 0;
+    background-color: $gray_line;
+    height: 1px;
+    z-index: -1;
+  }
+
+  .title-children-line {
+    background-color: white;
+    display: inline;
+    padding-left: 34px;
+    padding-right: 34px;
+  }
+}

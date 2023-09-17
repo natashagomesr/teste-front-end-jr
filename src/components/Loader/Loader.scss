@@ -1,0 +1,16 @@
+@import "src/App.scss";
+
+.container-loader {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.loader-spinner {
+  border: 10px solid $pink;
+  width: 50px;
+  height: 50px;
+  border-radius: 47%;
+  animation: colorSpin 3s linear infinite;
+}

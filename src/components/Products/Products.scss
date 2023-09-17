@@ -1,0 +1,13 @@
+@import "src/App.scss";
+
+.container-products {
+  .container-categories-products {
+    display: flex;
+    margin-top: 4px;
+  }
+
+  .container-product-shelf {
+    padding: 16px;
+    margin-left: -16px;
+  }
+}
